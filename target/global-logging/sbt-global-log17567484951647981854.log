@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(runMain PartialSumDFS, Some(6c9c00bf-dda6-406b-8bb7-12467e8ca1a0), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / runMain[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/kuritatomooki/Desktop/scalaTrn/target/scala-2.12/classes ...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed 2020/12/11 9:43:17[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

@@ -1,0 +1,13 @@
+1607386940884:run
+1607386993249:exit
+1607387342576:run
+1607387382127:runMain Distance
+1607388038239:runMain Factorial
+1607435875806:runMain Factorization
+1607436412744:runMain Factozation
+1607436578036:runMain Factorization
+1607610593217:for(i <- 0 to 10) {println(i)}
+1607611623967:runMain SimpleSearch
+1607612885974:exit
+1607613071177:runMain RegexSearch
+1607646710382:runMain PartialSumDFS
